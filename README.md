@@ -10,3 +10,6 @@
 Aditya3102006/Aditya3102006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Virat Kohli Was The Highest Paid Cricketer In The World In The Last 12 Months.
+
+- Kohli's Estimated Earnings Were 847cr Inr. 🤯
